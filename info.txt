@@ -22,3 +22,7 @@
 14. git merge => merge 2 barnch's
 15. git branch -d newbranch1 =>to delete newbranch1 .
 
+
+
+lastname :errabia 
+mddlename: sfsdfsd.
