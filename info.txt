@@ -24,4 +24,9 @@
 
 
 
+<<<<<<< HEAD
 lastname :errabia 
+=======
+lastname :errabia 
+mddlename: sfsdfsd.
+>>>>>>> f/middlename
