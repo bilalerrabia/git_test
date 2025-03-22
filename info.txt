@@ -23,10 +23,4 @@
 15. git branch -d newbranch1 =>to delete newbranch1 .
 
 
-
-<<<<<<< HEAD
-lastname :errabia 
-=======
-lastname :errabia 
-mddlename: sfsdfsd.
->>>>>>> f/middlename
+16. git remote add origin https://github.com/bilalerrabia/git_test.git =>add a new remote .
