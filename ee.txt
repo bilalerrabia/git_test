@@ -16,3 +16,8 @@
    1. make ".gitignore" file .
    2. ignore.png .
 
+12. git branch => show all the branches.
+11. git branch newbranch  =>make new branch "newbranch"
+13. git checkout "newbranch" => goto newbranch 
+
+
