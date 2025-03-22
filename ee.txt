@@ -7,3 +7,6 @@
   git config -m "your message"  => for simple messages. 
 6.git config --global core.editor notepad => switch from vim to notepad for commit mesagge.
 7.6.git config -l  =>show the confiduration of our git.
+8. git log => show all the modifications
+9. git log --pretty=oneline => show all the modifications in one line
+10.
