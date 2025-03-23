@@ -25,7 +25,12 @@
 
   III.push to github:
 
-1. git remote add origin https://github.com/bilalerrabia/git_test.git =>add a new remote .
-2. git commit -m "first push" =>verified that you commit the last stadge version.
-3. git push -u origin master =>gust for the first time after that you can use $git push .
+	1. git remote add origin https://github.com/bilalerrabia/git_test.git =>add a new remote .
+	2. git commit -m "first push" =>verified that you commit the last stadge version.
+	3. git push -u origin master =>gust for the first time after that you can use $git push .
+
+4. git remote show origin  => ??
+
+18. git clone https://github.com/bilalerrabia/git_test.git . => clone a repo frome github.
+
 
