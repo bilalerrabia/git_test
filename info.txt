@@ -21,6 +21,7 @@
 13. git checkout "newbranch" => goto newbranch 
 14. git merge => merge 2 barnch's
 15. git branch -d newbranch1 =>to delete newbranch1 .
+17.git branch -m master main  =>change name of branch from master to main.
 
 
 16. git remote add origin https://github.com/bilalerrabia/git_test.git =>add a new remote .
