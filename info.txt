@@ -11,7 +11,6 @@
 9. git log --pretty=oneline => show all the modifications in one line
 10.git checkout => ???
 
-
  II. ignore files:
    1. make ".gitignore" file .
    2. ignore.png .
@@ -38,7 +37,4 @@
   xxx. return to a commit :
 	1. git log --oneline =>show all the commits.
 	2. git reset f2e45a24f => the hache of the commit.
- 	3. git log --oneline => verefie .
-
-
-  test test
+ 	3. git log --oneline => verefie.
