@@ -39,3 +39,6 @@
 	1. git log --oneline =>show all the commits.
 	2. git reset f2e45a24f => the hache of the commit.
  	3. git log --oneline => verefie .
+
+
+  test test
