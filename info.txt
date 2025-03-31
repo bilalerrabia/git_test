@@ -12,7 +12,7 @@
 9. git log --pretty=oneline => show all the modifications in one line
 11. git ls-files =>show the files in stage area. 
 10.git checkout => ???
-
+  .git remote -v  => show the repo URL.
  II. ignore files:
    1. make ".gitignore" file .
    2. ignore.png .
