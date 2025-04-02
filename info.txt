@@ -1,11 +1,14 @@
 0.git init   => start the traking.
 1.git status
 2.git add .
+2.git rm --cached info.txt => intracked the file !(git add info.txt)
 3.git diff  => show the changes between the working tree and the staged area.
 3.git diff --staged => show the changes between the staged area and the repo.
 4.git diff info.txt  => show the changes in info file.
-5.git commit    => push
-  git config -m "your message"  => for simple messages. 
+5.git commit    => push to staged area.
+5.git restore info.txt => get the last version of the file frome staged area and ignore the modifiecation that not commited.
+  git commit -m "your message"  => for simple messages. 
+5.git commit --amend =>modifie the last commit message.
 6.git config --global core.editor notepad => switch from vim to notepad for commit mesagge.
 7.6.git config -l  =>show the confiduration of our git.
 8. git log => show all the modifications
@@ -40,3 +43,10 @@
 	1. git log --oneline =>show all the commits.
 	2. git reset f2e45a24f => the hache of the commit.
  	3. git log --oneline => verefie.
+
+filter the commit's :
+  git log --oneline info.txt  => get the commit related to the info file 
+  git log --oneline -2 =>just the last 2.
+  git log --oneline --graph => ???.
+
+git show cfb1 => show the detieal of the commit (cha1="cfb1").
