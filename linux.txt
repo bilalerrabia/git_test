@@ -1,8 +1,0 @@
-delete:
-	rmdir foldername =>for empty dir.
-	rm -r foldername =>for no emtpy dir's (delete recursivle).
-	rm info.txt => for the files.
-
-touch c00.c => to modifie the time step and to creat files.
-
-cat c00.c => aficheir c00 .
